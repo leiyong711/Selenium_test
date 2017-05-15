@@ -1,0 +1,272 @@
+17-05-13 17:00 root         ERROR    出错啦
+17-05-13 17:00 root         WARNING  警告
+17-05-13 17:00 root         INFO     运行
+17-05-13 17:00 root         DEBUG    调试
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/url {"url": "https://www.baidu.com", "sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element {"using": "link text", "sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "value": "\u767b\u5f55"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element/{d98f0803-79db-4652-ae72-d309638c2b1b}/click {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "id": "{d98f0803-79db-4652-ae72-d309638c2b1b}"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element {"using": "id", "sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "value": "TANGRAM__PSP_8__userName"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element/{ca12dee4-34ef-4d1e-9846-594c153dc8f9}/value {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "id": "{ca12dee4-34ef-4d1e-9846-594c153dc8f9}", "value": ["1", "8", "2", "1", "6", "0", "6", "0", "7", "5", "3"]}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element {"using": "name", "sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "value": "password"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element/{aba50ac0-92a0-48ec-a5cc-366bb6bda7d7}/value {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "id": "{aba50ac0-92a0-48ec-a5cc-366bb6bda7d7}", "value": ["l", "e", "i", "5", "2", "0"]}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/screenshot {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element {"using": "id", "sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "value": "TANGRAM__PSP_8__verifyCodeImgParent"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element/{ed1deef9-8ff1-4376-a192-7124a58b3c2f}/location {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "id": "{ed1deef9-8ff1-4376-a192-7124a58b3c2f}"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element/{ed1deef9-8ff1-4376-a192-7124a58b3c2f}/location {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "id": "{ed1deef9-8ff1-4376-a192-7124a58b3c2f}"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element/{ed1deef9-8ff1-4376-a192-7124a58b3c2f}/location {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "id": "{ed1deef9-8ff1-4376-a192-7124a58b3c2f}"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element/{ed1deef9-8ff1-4376-a192-7124a58b3c2f}/size {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "id": "{ed1deef9-8ff1-4376-a192-7124a58b3c2f}"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element/{ed1deef9-8ff1-4376-a192-7124a58b3c2f}/location {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "id": "{ed1deef9-8ff1-4376-a192-7124a58b3c2f}"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:54991/hub/session/a20ec6c9-c50c-4834-95cb-cca90b997ca6/element/{ed1deef9-8ff1-4376-a192-7124a58b3c2f}/size {"sessionId": "a20ec6c9-c50c-4834-95cb-cca90b997ca6", "id": "{ed1deef9-8ff1-4376-a192-7124a58b3c2f}"}
+17-05-13 17:00 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:02 root         ERROR    出错啦
+17-05-13 17:02 root         WARNING  警告
+17-05-13 17:02 root         INFO     运行
+17-05-13 17:02 root         DEBUG    调试
+17-05-13 17:02 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/url {"url": "https://www.baidu.com", "sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element {"using": "link text", "sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "value": "\u767b\u5f55"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element/{97ea4409-13a4-4058-8a63-fad4d7ecbbd8}/click {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "id": "{97ea4409-13a4-4058-8a63-fad4d7ecbbd8}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element {"using": "id", "sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "value": "TANGRAM__PSP_8__userName"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element/{d77482b2-5808-439f-a4e9-5bc140a2e03c}/value {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "id": "{d77482b2-5808-439f-a4e9-5bc140a2e03c}", "value": ["1", "8", "2", "1", "6", "0", "6", "0", "7", "5", "3"]}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element {"using": "name", "sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "value": "password"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element/{f4520f22-1f39-4c48-9162-6f43b51e974a}/value {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "id": "{f4520f22-1f39-4c48-9162-6f43b51e974a}", "value": ["l", "e", "i", "5", "2", "0"]}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/screenshot {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element {"using": "id", "sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "value": "TANGRAM__PSP_8__verifyCodeImgParent"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element/{3713d666-f611-4e44-9db0-ae32a77ac185}/location {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "id": "{3713d666-f611-4e44-9db0-ae32a77ac185}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element/{3713d666-f611-4e44-9db0-ae32a77ac185}/location {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "id": "{3713d666-f611-4e44-9db0-ae32a77ac185}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element/{3713d666-f611-4e44-9db0-ae32a77ac185}/location {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "id": "{3713d666-f611-4e44-9db0-ae32a77ac185}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element/{3713d666-f611-4e44-9db0-ae32a77ac185}/size {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "id": "{3713d666-f611-4e44-9db0-ae32a77ac185}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element/{3713d666-f611-4e44-9db0-ae32a77ac185}/location {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "id": "{3713d666-f611-4e44-9db0-ae32a77ac185}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55060/hub/session/3dd9d3d0-a17b-43b3-88f7-bbfa0874c331/element/{3713d666-f611-4e44-9db0-ae32a77ac185}/size {"sessionId": "3dd9d3d0-a17b-43b3-88f7-bbfa0874c331", "id": "{3713d666-f611-4e44-9db0-ae32a77ac185}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 root         ERROR    出错啦
+17-05-13 17:03 root         WARNING  警告
+17-05-13 17:03 root         INFO     运行
+17-05-13 17:03 root         DEBUG    调试
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/url {"url": "https://www.baidu.com", "sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element {"using": "link text", "sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "value": "\u767b\u5f55"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element/{521c24c0-ba9d-4944-aeba-bbc4ac2c34f0}/click {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "id": "{521c24c0-ba9d-4944-aeba-bbc4ac2c34f0}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element {"using": "id", "sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "value": "TANGRAM__PSP_8__userName"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element/{041fe0a1-fc82-464f-8b36-847dabcf17dc}/value {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "id": "{041fe0a1-fc82-464f-8b36-847dabcf17dc}", "value": ["1", "8", "2", "1", "6", "0", "6", "0", "7", "5", "3"]}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element {"using": "name", "sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "value": "password"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element/{86e92b07-ed09-4117-8193-dbb4ddd7f174}/value {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "id": "{86e92b07-ed09-4117-8193-dbb4ddd7f174}", "value": ["l", "e", "i", "5", "2", "0"]}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/screenshot {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element {"using": "id", "sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "value": "TANGRAM__PSP_8__verifyCodeImgParent"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element/{63b1fe07-e6cb-41f2-823e-756e8515627c}/location {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "id": "{63b1fe07-e6cb-41f2-823e-756e8515627c}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element/{63b1fe07-e6cb-41f2-823e-756e8515627c}/location {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "id": "{63b1fe07-e6cb-41f2-823e-756e8515627c}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element/{63b1fe07-e6cb-41f2-823e-756e8515627c}/location {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "id": "{63b1fe07-e6cb-41f2-823e-756e8515627c}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element/{63b1fe07-e6cb-41f2-823e-756e8515627c}/size {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "id": "{63b1fe07-e6cb-41f2-823e-756e8515627c}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element/{63b1fe07-e6cb-41f2-823e-756e8515627c}/location {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "id": "{63b1fe07-e6cb-41f2-823e-756e8515627c}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55121/hub/session/ca8d4bea-20fc-4590-8b47-1e219cc2c0f9/element/{63b1fe07-e6cb-41f2-823e-756e8515627c}/size {"sessionId": "ca8d4bea-20fc-4590-8b47-1e219cc2c0f9", "id": "{63b1fe07-e6cb-41f2-823e-756e8515627c}"}
+17-05-13 17:03 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/url {"url": "https://www.baidu.com", "sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element {"using": "link text", "sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "value": "\u767b\u5f55"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element/{07a5546c-8003-41c0-8cdf-813b16d89f02}/click {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "id": "{07a5546c-8003-41c0-8cdf-813b16d89f02}"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element {"using": "id", "sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "value": "TANGRAM__PSP_8__userName"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element/{c89e60e6-4ac7-47ec-ba9e-4e6bbeb379d4}/value {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "id": "{c89e60e6-4ac7-47ec-ba9e-4e6bbeb379d4}", "value": ["1", "8", "2", "1", "6", "0", "6", "0", "7", "5", "3"]}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element {"using": "name", "sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "value": "password"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element/{0321589d-7858-47fa-ba7b-01c4595b2851}/value {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "id": "{0321589d-7858-47fa-ba7b-01c4595b2851}", "value": ["l", "e", "i", "5", "2", "0"]}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/screenshot {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element {"using": "id", "sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "value": "TANGRAM__PSP_8__verifyCodeImgParent"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element/{cfb07aca-ba67-41b9-bd2f-f1890886010c}/location {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "id": "{cfb07aca-ba67-41b9-bd2f-f1890886010c}"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element/{cfb07aca-ba67-41b9-bd2f-f1890886010c}/location {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "id": "{cfb07aca-ba67-41b9-bd2f-f1890886010c}"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element/{cfb07aca-ba67-41b9-bd2f-f1890886010c}/location {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "id": "{cfb07aca-ba67-41b9-bd2f-f1890886010c}"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element/{cfb07aca-ba67-41b9-bd2f-f1890886010c}/size {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "id": "{cfb07aca-ba67-41b9-bd2f-f1890886010c}"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element/{cfb07aca-ba67-41b9-bd2f-f1890886010c}/location {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "id": "{cfb07aca-ba67-41b9-bd2f-f1890886010c}"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55253/hub/session/e8a37c6d-3e03-40c7-9403-f9f4621980b7/element/{cfb07aca-ba67-41b9-bd2f-f1890886010c}/size {"sessionId": "e8a37c6d-3e03-40c7-9403-f9f4621980b7", "id": "{cfb07aca-ba67-41b9-bd2f-f1890886010c}"}
+17-05-13 17:07 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/url {"url": "https://www.baidu.com", "sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element {"using": "link text", "sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "value": "\u767b\u5f55"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element/{3d8f476a-5ef2-4478-bf61-ec191eb6e3c8}/click {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "id": "{3d8f476a-5ef2-4478-bf61-ec191eb6e3c8}"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element {"using": "id", "sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "value": "TANGRAM__PSP_8__userName"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element/{c8e6cce1-91f9-4508-986f-fd4a6531d70c}/value {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "id": "{c8e6cce1-91f9-4508-986f-fd4a6531d70c}", "value": ["1", "8", "2", "1", "6", "0", "6", "0", "7", "5", "3"]}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element {"using": "name", "sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "value": "password"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element/{bcee2348-d529-4ccc-94ac-a3ade57565a3}/value {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "id": "{bcee2348-d529-4ccc-94ac-a3ade57565a3}", "value": ["l", "e", "i", "5", "2", "0"]}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/screenshot {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element {"using": "id", "sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "value": "TANGRAM__PSP_8__verifyCodeImgParent"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element/{17557f91-357e-4ce6-961e-7a95139e07f3}/location {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "id": "{17557f91-357e-4ce6-961e-7a95139e07f3}"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element/{17557f91-357e-4ce6-961e-7a95139e07f3}/location {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "id": "{17557f91-357e-4ce6-961e-7a95139e07f3}"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element/{17557f91-357e-4ce6-961e-7a95139e07f3}/location {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "id": "{17557f91-357e-4ce6-961e-7a95139e07f3}"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element/{17557f91-357e-4ce6-961e-7a95139e07f3}/size {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "id": "{17557f91-357e-4ce6-961e-7a95139e07f3}"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element/{17557f91-357e-4ce6-961e-7a95139e07f3}/location {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "id": "{17557f91-357e-4ce6-961e-7a95139e07f3}"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55393/hub/session/63dbbaec-d7b9-44a4-ace0-607f9e16555e/element/{17557f91-357e-4ce6-961e-7a95139e07f3}/size {"sessionId": "63dbbaec-d7b9-44a4-ace0-607f9e16555e", "id": "{17557f91-357e-4ce6-961e-7a95139e07f3}"}
+17-05-13 17:10 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/url {"url": "https://www.baidu.com", "sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element {"using": "link text", "sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "value": "\u767b\u5f55"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{07e03653-8c61-4e45-9c1f-e83ff3beca3c}/click {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{07e03653-8c61-4e45-9c1f-e83ff3beca3c}"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element {"using": "id", "sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "value": "TANGRAM__PSP_8__userName"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{ece6c4b8-e09a-426d-8d54-8444f7853982}/value {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{ece6c4b8-e09a-426d-8d54-8444f7853982}", "value": ["1", "8", "2", "1", "6", "0", "6", "0", "7", "5", "3"]}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element {"using": "name", "sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "value": "password"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{34d5124a-e4cc-45b9-b592-f77055fa1104}/value {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{34d5124a-e4cc-45b9-b592-f77055fa1104}", "value": ["l", "e", "i", "5", "2", "0"]}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/screenshot {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element {"using": "id", "sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "value": "TANGRAM__PSP_8__verifyCodeImgParent"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}/location {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}/location {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}/location {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}/size {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}/location {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}/size {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{dfe88ee5-0fcb-4b4b-8f7a-d4f5bed11cc9}"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 requests.packages.urllib3.connectionpool DEBUG    Starting new HTTP connection (1): api.ruokuai.com
+17-05-13 17:11 requests.packages.urllib3.connectionpool DEBUG    http://api.ruokuai.com:80 "POST /create.json HTTP/1.1" 200 63
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element {"using": "name", "sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "value": "verifyCode"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{7bd4c348-eaf0-49ba-8e21-cc7beb150c10}/value {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{7bd4c348-eaf0-49ba-8e21-cc7beb150c10}", "value": ["\u5bb6", "\u4e2d"]}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element {"using": "id", "sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "value": "TANGRAM__PSP_8__submit"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55457/hub/session/5819b0d5-2287-4bfa-86e5-bff3d51a2b5e/element/{1f56e6a3-c8f9-4e3a-b3c2-5579d71f30be}/click {"sessionId": "5819b0d5-2287-4bfa-86e5-bff3d51a2b5e", "id": "{1f56e6a3-c8f9-4e3a-b3c2-5579d71f30be}"}
+17-05-13 17:11 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/url {"url": "https://www.baidu.com", "sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element {"using": "link text", "sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "value": "\u767b\u5f55"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{546d483f-4ccc-4136-8bd6-74038ee6eeac}/click {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{546d483f-4ccc-4136-8bd6-74038ee6eeac}"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element {"using": "id", "sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "value": "TANGRAM__PSP_8__userName"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{523b9cd8-aa02-41c0-9b0b-81e792376f61}/value {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{523b9cd8-aa02-41c0-9b0b-81e792376f61}", "value": ["1", "8", "2", "1", "6", "0", "6", "0", "7", "5", "3"]}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element {"using": "name", "sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "value": "password"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{539dd7ba-e5e0-40f2-b2ff-e77d48990b5b}/value {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{539dd7ba-e5e0-40f2-b2ff-e77d48990b5b}", "value": ["l", "e", "i", "5", "2", "0"]}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/screenshot {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element {"using": "id", "sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "value": "TANGRAM__PSP_8__verifyCodeImgParent"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{00eb560f-5a60-4e5e-94b1-cc27c34f816e}/location {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{00eb560f-5a60-4e5e-94b1-cc27c34f816e}"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{00eb560f-5a60-4e5e-94b1-cc27c34f816e}/location {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{00eb560f-5a60-4e5e-94b1-cc27c34f816e}"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{00eb560f-5a60-4e5e-94b1-cc27c34f816e}/location {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{00eb560f-5a60-4e5e-94b1-cc27c34f816e}"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{00eb560f-5a60-4e5e-94b1-cc27c34f816e}/size {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{00eb560f-5a60-4e5e-94b1-cc27c34f816e}"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{00eb560f-5a60-4e5e-94b1-cc27c34f816e}/location {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{00eb560f-5a60-4e5e-94b1-cc27c34f816e}"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{00eb560f-5a60-4e5e-94b1-cc27c34f816e}/size {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{00eb560f-5a60-4e5e-94b1-cc27c34f816e}"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 requests.packages.urllib3.connectionpool DEBUG    Starting new HTTP connection (1): api.ruokuai.com
+17-05-13 17:12 requests.packages.urllib3.connectionpool DEBUG    http://api.ruokuai.com:80 "POST /create.json HTTP/1.1" 200 63
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element {"using": "name", "sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "value": "verifyCode"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{77dfad48-a7e6-4d4e-9e4c-7251b4f5d7e0}/value {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{77dfad48-a7e6-4d4e-9e4c-7251b4f5d7e0}", "value": ["\u540c", "\u884c"]}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element {"using": "id", "sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "value": "TANGRAM__PSP_8__submit"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55545/hub/session/0824c269-1146-4497-ab8b-18562e6fbe21/element/{62769ea2-df8b-45ab-9a3a-ebd39a5056a5}/click {"sessionId": "0824c269-1146-4497-ab8b-18562e6fbe21", "id": "{62769ea2-df8b-45ab-9a3a-ebd39a5056a5}"}
+17-05-13 17:12 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/url {"url": "https://www.baidu.com", "sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element {"using": "link text", "sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "value": "\u767b\u5f55"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element/{7e855bef-4039-473c-bc98-cb635ceebe4f}/click {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "id": "{7e855bef-4039-473c-bc98-cb635ceebe4f}"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element {"using": "id", "sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "value": "TANGRAM__PSP_8__userName"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element/{e145dabd-0b82-4619-a13f-8fd924a62915}/value {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "id": "{e145dabd-0b82-4619-a13f-8fd924a62915}", "value": ["1", "8", "2", "1", "6", "0", "6", "0", "7", "5", "3"]}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element {"using": "name", "sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "value": "password"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element/{b571a948-cce2-4cde-a28f-81e984fbc6ff}/value {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "id": "{b571a948-cce2-4cde-a28f-81e984fbc6ff}", "value": ["l", "e", "i", "5", "2", "0"]}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/screenshot {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element {"using": "id", "sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "value": "TANGRAM__PSP_8__verifyCodeImgParent"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element/{546feca3-7ee7-4a4b-a599-c381efe8c620}/location {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "id": "{546feca3-7ee7-4a4b-a599-c381efe8c620}"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element/{546feca3-7ee7-4a4b-a599-c381efe8c620}/location {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "id": "{546feca3-7ee7-4a4b-a599-c381efe8c620}"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element/{546feca3-7ee7-4a4b-a599-c381efe8c620}/location {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "id": "{546feca3-7ee7-4a4b-a599-c381efe8c620}"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element/{546feca3-7ee7-4a4b-a599-c381efe8c620}/size {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "id": "{546feca3-7ee7-4a4b-a599-c381efe8c620}"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element/{546feca3-7ee7-4a4b-a599-c381efe8c620}/location {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "id": "{546feca3-7ee7-4a4b-a599-c381efe8c620}"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    GET http://127.0.0.1:55665/hub/session/3f163d74-fafd-4dd5-9569-8dfd925a4c99/element/{546feca3-7ee7-4a4b-a599-c381efe8c620}/size {"sessionId": "3f163d74-fafd-4dd5-9569-8dfd925a4c99", "id": "{546feca3-7ee7-4a4b-a599-c381efe8c620}"}
+17-05-13 17:13 selenium.webdriver.remote.remote_connection DEBUG    Finished Request

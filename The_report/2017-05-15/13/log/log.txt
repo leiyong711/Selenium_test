@@ -1,0 +1,8 @@
+17-05-15 13:22 root         ERROR    出错啦  I:/seleniumtest/run/run.py 33 <module>  run.py 
+17-05-15 13:22 root         WARNING  警告  I:/seleniumtest/run/run.py 34 <module>  run.py 
+17-05-15 13:22 root         INFO     运行  I:/seleniumtest/run/run.py 35 <module>  run.py 
+17-05-15 13:22 root         DEBUG    调试  I:/seleniumtest/run/run.py 36 <module>  run.py 
+17-05-15 13:22 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:65090/hub/session/52981637-a990-4e4e-a558-50cc91841c67/url {"url": "https://www.baidu.com", "sessionId": "52981637-a990-4e4e-a558-50cc91841c67"}  C:\Users\ASUS\AppData\Roaming\Python\Python27\site-packages\selenium\webdriver\remote\remote_connection.py 415 _request  remote_connection.py 
+17-05-15 13:22 selenium.webdriver.remote.remote_connection DEBUG    Finished Request  C:\Users\ASUS\AppData\Roaming\Python\Python27\site-packages\selenium\webdriver\remote\remote_connection.py 510 _request  remote_connection.py 
+17-05-15 13:22 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:65090/hub/session/52981637-a990-4e4e-a558-50cc91841c67/element {"using": "link text", "sessionId": "52981637-a990-4e4e-a558-50cc91841c67", "value": "\u767b\u5f55"}  C:\Users\ASUS\AppData\Roaming\Python\Python27\site-packages\selenium\webdriver\remote\remote_connection.py 415 _request  remote_connection.py 
+17-05-15 13:22 selenium.webdriver.remote.remote_connection DEBUG    Finished Request  C:\Users\ASUS\AppData\Roaming\Python\Python27\site-packages\selenium\webdriver\remote\remote_connection.py 510 _request  remote_connection.py 

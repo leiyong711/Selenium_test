@@ -1,0 +1,9 @@
+17-05-14 12:14 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:49597/hub/session/b3e82991-5887-4b77-bd8e-5b5e52669241/url {"url": "https://www.baidu.com", "sessionId": "b3e82991-5887-4b77-bd8e-5b5e52669241"}
+17-05-14 12:19 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:50221/hub/session/0680e59f-30cb-4744-bb8d-fb7095bbae9c/url {"url": "https://www.baidu.com", "sessionId": "0680e59f-30cb-4744-bb8d-fb7095bbae9c"}
+17-05-14 12:19 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-14 12:19 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:50221/hub/session/0680e59f-30cb-4744-bb8d-fb7095bbae9c/element {"using": "link text", "sessionId": "0680e59f-30cb-4744-bb8d-fb7095bbae9c", "value": "\u767b\u5f55"}
+17-05-14 12:19 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-14 12:22 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:50331/hub/session/26a0eaec-de50-43f2-9783-e36e624812cc/url {"url": "https://www.baidu.com", "sessionId": "26a0eaec-de50-43f2-9783-e36e624812cc"}
+17-05-14 12:22 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
+17-05-14 12:22 selenium.webdriver.remote.remote_connection DEBUG    POST http://127.0.0.1:50331/hub/session/26a0eaec-de50-43f2-9783-e36e624812cc/element {"using": "link text", "sessionId": "26a0eaec-de50-43f2-9783-e36e624812cc", "value": "\u767b\u5f55"}
+17-05-14 12:22 selenium.webdriver.remote.remote_connection DEBUG    Finished Request
